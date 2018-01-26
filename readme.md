@@ -1,10 +1,6 @@
-# Y8 Games Logo Pack
+# Y8, Y8.COM, and Y8 Games Logo Pack
 
-
-The files using RGB color mode and will look off if not open using RGB mode.
-
-
-IMPORTANT!
+The files use RGB color mode and will look off if using a different color mode.
 
 When using id.net and Y8 logos at the same time (menu screen, loading screen etc.), only use matching .png files to pair the logos.
 
